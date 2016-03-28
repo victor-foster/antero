@@ -1,9 +1,9 @@
 # antero
-a micro javascript library for very simple web applications
+a small library for simple web applications
 
 ## history
 
-created as a way to standardize front-end development style for quick-to-stand up proof of concept web applications.  
+created in order to enable quick prototyping of simple web applications
 
 ## philosophy
 
