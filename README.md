@@ -31,3 +31,8 @@ Antero.Extend({
 	}
 });
 ```
+
+## Dependencies
+
+* jQuery 1.7+
+* underscore.js (or lodash)
