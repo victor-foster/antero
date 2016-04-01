@@ -12,7 +12,7 @@ the ideas behind antero was to guide developers toward creating small ecapsulate
 leveraging jquery's event delegation mechanism and inspired but the simplicity of Backbone's View modules api, antero provides one `events` object for binding events.  modules can talk to each other through a publish/subscribe pattern, with antero being the `mediator`.
 
 ## Example
-`
+```
 var App = App || {};
 Antero.Extend({
 	namespace: "App.MyFeature", // the namespace for the modules
@@ -30,4 +30,4 @@ Antero.Extend({
 		this.doSomethingElese(); // this is the context of the module
 	}
 });
-`
+```
